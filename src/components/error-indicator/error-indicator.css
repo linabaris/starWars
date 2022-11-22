@@ -1,0 +1,11 @@
+.error-indicator {
+    display: flex;
+    flex-direction: column;
+    color: chocolate;
+    align-items: center;
+    margin: 0 auto;
+}
+.boom {
+    font-size: 2rem;
+}
+
