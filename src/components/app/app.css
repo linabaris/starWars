@@ -1,0 +1,19 @@
+.toggle-planet {
+    margin: 1.2rem;
+}
+/* <App/>
+    <Header/>
+    <Random Planet/>
+    <People page>
+        <ItemList/>
+        <Person details/>
+    <People page/>
+    <Planet page>
+        <ItemList/>
+        <Planet details/>
+    <Planet page/>
+    <Starship page>
+        <ItemList/>
+        <Starship details/>
+    <Starship page/>
+     */
